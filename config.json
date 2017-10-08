@@ -1,0 +1,9 @@
+{
+    "GCLOUD_PROJECT": "outis",
+    "CLOUD_BUCKET": "outis",
+    "DATA_BACKEND": "datastore",
+    "OAUTH2_CLIENT_ID": "1038007259909-gm0eqmtv0s5grvb6b6hl8kjblpnc9t9m.apps.googleusercontent.com ",
+    "OAUTH2_CLIENT_SECRET": "5T6-gAtOD78Lw2vr1GEKO4vE ",
+    "OAUTH2_CALLBACK": "http://localhost:8080/auth/google/callback"
+  }
+  
